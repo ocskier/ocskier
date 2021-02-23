@@ -15,6 +15,6 @@ I spent time learning coding as well as building, repairing, and implementing pe
 computers. Recently, I am employed with a coding education company teaching MERN stack
 application development.
 
-<img alt="Node" src="./assets/logo.svg" height="80"><img alt="Node" src="./assets/react.png" height="80"><img alt='CSS' src="./assets/css.png" width="80" /><img width=160 height=80 src="https://www.python.org/static/img/python-logo@2x.png"><img width=160 height=80 src="https://pypi.org/static/images/logo-small.6eef541e.svg"><img width=80 height=80 src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqJxq557JIe5VBocJn5zcd36Bb8a4tpnIftg&usqp=CAU" height="80">
+<img alt='HTML logo' src="./assets/html-download.png" height="110" /> <img alt='CSS' src="./assets/css.png" width="80" /> <img alt='TS logo' src="./assets/Typescript_logo.png" height="100" /> <img alt="Node logo" src="./assets/logo.svg" height="80"> <img alt="React logo" src="./assets/react.png" height="80"> <img width=120 height=80 src="https://www.python.org/static/img/python-logo@2x.png"> <img width=100 height=80 src="https://pypi.org/static/images/logo-small.6eef541e.svg"> <img width=80 height=80 src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqJxq557JIe5VBocJn5zcd36Bb8a4tpnIftg&usqp=CAU" height="80">
 
-<img src="Lang1.PNG" width=240 height=150 /><img src="Lang2.PNG" width=240 height=150 />
+<img src="assets/Lang1.PNG" width=240 height=150 /> <img src="assets/Lang2.PNG" width=240 height=150 />
