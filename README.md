@@ -15,6 +15,4 @@ I spent time learning coding as well as building, repairing, and implementing pe
 computers. Recently, I am employed with a coding education company teaching MERN stack
 application development.
 
-<img src="Lang1.PNG" width=240 height=150 />
-
-<img src="Lang2.PNG" width=240 height=150 />
+<img src="Lang1.PNG" width=240 height=150 /><img src="Lang2.PNG" width=240 height=150 />
