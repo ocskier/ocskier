@@ -13,7 +13,7 @@ Computer Programming Certificate and a Masters in Wood and Paper Science. I have
 many years teaching myself hardware and software fundamentals utilizing freelance work.
 I spent time learning coding as well as building, repairing, and implementing personal
 computers. Recently, I am employed with a coding education company teaching MERN stack
-application development. My portfolio can be found [here](https://ocskier.github.io).
+application development. My portfolio can be found [HERE](https://ocskier.github.io).
 
 - [Node](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
