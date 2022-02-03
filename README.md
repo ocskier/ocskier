@@ -12,7 +12,7 @@ B.S. degrees in Chemical Engineering and Wood and Paper Science from
 Computer Programming Certificate and a Masters in Wood and Paper Science. I have spent
 many years teaching myself hardware and software fundamentals utilizing freelance work.
 I spent time learning coding as well as building, repairing, and implementing personal
-computers. Recently, I help build enterprise-level Full-stack applications primarily utilizing
+computers. Recently, I help build enterprise-level Full-Stack applications primarily utilizing
 React, Redux, Typescript and NodeJS. My portfolio can be found [HERE](https://ocskier.github.io).
 
 - [Node](https://nodejs.org/en/)
